@@ -1,0 +1,6 @@
+server:
+  port: 8088
+spring:
+  ai:
+    openai:
+      api-key: sk-5cdU5bobrNN8DzdwKN9vIheL3xpGVe0MWa7CwjrQg5N2nJSA
